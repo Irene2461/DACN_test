@@ -1,0 +1,21 @@
+{
+    "/js/apartment_detail.js": "/js/apartment_detail.js",
+    "/js/auth.js": "/js/auth.js",
+    "/js/blog.js": "/js/blog.js",
+    "/js/blog_detail.js": "/js/blog_detail.js",
+    "/js/contact.js": "/js/contact.js",
+    "/js/home.js": "/js/home.js",
+    "/css/home.css": "/css/home.css",
+    "/css/mini_apartment.css": "/css/mini_apartment.css",
+    "/css/rental_apartment.css": "/css/rental_apartment.css",
+    "/css/apartment_detail.css": "/css/apartment_detail.css",
+    "/css/contact.css": "/css/contact.css",
+    "/css/blog.css": "/css/blog.css",
+    "/css/blog_detail.css": "/css/blog_detail.css",
+    "/css/auth.css": "/css/auth.css",
+    "/css/user_room.css": "/css/user_room.css",
+    "/js/mini_apartment.js": "/js/mini_apartment.js",
+    "/js/profile.js": "/js/profile.js",
+    "/js/rental_apartment.js": "/js/rental_apartment.js",
+    "/js/user_room.js": "/js/user_room.js"
+}
